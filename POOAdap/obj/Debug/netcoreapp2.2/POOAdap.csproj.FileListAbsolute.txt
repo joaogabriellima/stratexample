@@ -1,0 +1,11 @@
+C:\Users\GTAC1\source\repos\POOAdap\POOAdap\bin\Debug\netcoreapp2.2\POOAdap.deps.json
+C:\Users\GTAC1\source\repos\POOAdap\POOAdap\bin\Debug\netcoreapp2.2\POOAdap.runtimeconfig.json
+C:\Users\GTAC1\source\repos\POOAdap\POOAdap\bin\Debug\netcoreapp2.2\POOAdap.runtimeconfig.dev.json
+C:\Users\GTAC1\source\repos\POOAdap\POOAdap\bin\Debug\netcoreapp2.2\POOAdap.dll
+C:\Users\GTAC1\source\repos\POOAdap\POOAdap\bin\Debug\netcoreapp2.2\POOAdap.pdb
+C:\Users\GTAC1\source\repos\POOAdap\POOAdap\obj\Debug\netcoreapp2.2\POOAdap.csprojAssemblyReference.cache
+C:\Users\GTAC1\source\repos\POOAdap\POOAdap\obj\Debug\netcoreapp2.2\POOAdap.csproj.CoreCompileInputs.cache
+C:\Users\GTAC1\source\repos\POOAdap\POOAdap\obj\Debug\netcoreapp2.2\POOAdap.AssemblyInfoInputs.cache
+C:\Users\GTAC1\source\repos\POOAdap\POOAdap\obj\Debug\netcoreapp2.2\POOAdap.AssemblyInfo.cs
+C:\Users\GTAC1\source\repos\POOAdap\POOAdap\obj\Debug\netcoreapp2.2\POOAdap.dll
+C:\Users\GTAC1\source\repos\POOAdap\POOAdap\obj\Debug\netcoreapp2.2\POOAdap.pdb

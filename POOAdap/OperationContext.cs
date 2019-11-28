@@ -4,19 +4,24 @@ using System.Text;
 
 namespace POOAdap
 {
-    public class OperationContext
+    public static class OperationContext
     {
-        private IStrategy _strategy;
-
-        public OperationContext(IStrategy strategy)
+        public IStrategy GetStrategy(int Operacao) 
         {
-            this._strategy = strategy;
-        } 
-
-        public double ExecutaStrategy(double firstNumber, double secondNumber)
-        {
-            return this._strategy.Calcular(firstNumber, secondNumber);
+            switch(Operacao)
+            {
+                case 0:
+                    return new Adicao();
+                case 1:
+                    return new Subtracao();
+                case 2:
+                    return new Multiplicacao();
+                case 3:
+                    return new Divisao();
+                default:
+                    Console.WriteLine("Ocorreu uma falha ao definir a operação desejada");
+                    break;
+            }
         }
-
     }
 }
